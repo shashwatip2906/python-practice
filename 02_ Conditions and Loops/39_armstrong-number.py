@@ -1,0 +1,1 @@
+print((lambda s: sum(int(d)**len(s) for d in s) == int(s))(input().strip()))
