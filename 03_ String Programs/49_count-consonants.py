@@ -1,0 +1,1 @@
+print(sum(c.isalpha() and c.lower() not in "aeiou" for c in input()))

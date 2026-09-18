@@ -1,0 +1,1 @@
+print(sum(input().lower().count(v) for v in "aeiou"))
